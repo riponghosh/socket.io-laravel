@@ -10,7 +10,7 @@
     <hr> 
     <form>
         <textarea style="width:100%;height:50px"></textarea>
-        <input type="submit" value="Отправить">
+        <input type="submit" value="submit">
     </form>
 
 
